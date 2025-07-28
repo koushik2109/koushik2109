@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Java and Full Stack**
 
-- 💬 Ask me about **C , Python , NumPy and Pandas**
+- 💬 Ask me about **C , Python , NumPy and Pandas ,HTML and CSS**
 
 - 📫 How to reach me **gummadavellikoushik2109@gmail.com**
 
