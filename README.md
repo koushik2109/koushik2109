@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Gummadavelli Sai Balaji Koushik</h1>
 <h3 align="center">A passionate SDE from India. I am looking forward to learn new programming languages and skills.</h3>
 
