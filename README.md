@@ -39,31 +39,37 @@
 # 🛠 Tech Stack
 
 ## Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts"/>
 </p>
 
 ## Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
 
 ## Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
 ## Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
 ## AI / ML
+
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 ## DevOps & Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode"/>
 </p>
@@ -80,12 +86,12 @@
 
 # 🚀 Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| MemoryVerse | AI-powered multimedia memory vault | Ongoing |
-| MindScope | AI-Based Speech Mental Health Analysis System | Completed |
-|InSIGHTA|CRM Sentiment Analysis Platform | Completed |
-| Voice Controlled Lamp | Arduino + Bluetooth | Completed|
+| Project               | Description                                   | Status    |
+| --------------------- | --------------------------------------------- | --------- |
+| MemoryVerse           | AI-powered multimedia memory vault            | Ongoing   |
+| MindScope             | AI-Based Speech Mental Health Analysis System | Completed |
+| InSIGHTA              | CRM Sentiment Analysis Platform               | Completed |
+| Voice Controlled Lamp | Arduino + Bluetooth                           | Completed |
 
 ---
 
@@ -113,7 +119,9 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/koushik2109/koushik2109/output/github-contribution-grid-snake-dark.svg"/>
+  <a href="https://github.com/koushik2109" target="_blank">
+    <img src="https://raw.githubusercontent.com/koushik2109/koushik2109/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  </a>
 </p>
 
 ---
@@ -121,18 +129,32 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=koushik2109&theme=tokyonight&no-frame=true&row=2&column=4"/>
+  <a href="https://github.com/koushik2109" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=koushik2109&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
 # 💻 Coding Profiles
 
-- LeetCode: https://leetcode.com/u/koushik-2109/
-- Codeforces: https://codeforces.com/profile/koushik_2109
-- CodeChef: https://www.codechef.com/users/koushik2109
-- HackerRank: https://www.hackerrank.com/koushik-2109
-- GeeksforGeeks: https://auth.geeksforgeeks.org/user/gummadavelli0i69
+<p align="center">
+  <a href="https://leetcode.com/u/koushik-2109/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow&labelColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/koushik_2109" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/koushik2109" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/koushik-2109" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/gummadavelli0i69" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
 
 ---
 
@@ -144,9 +166,17 @@
 
 # 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/gummadavelli-sai-balaji-koushik-499369315
-- Instagram: https://instagram.com/koushik_2109
-- Email: gummadavellikoushik2109@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/gummadavelli-sai-balaji-koushik-499369315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/koushik_2109" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:gummadavellikoushik2109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
