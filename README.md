@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer • Open Source Contributor • AI/ML Enthusiast • Backend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Full+Stack+Developer;Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver" />
 </p>
 
 <p align="center">
