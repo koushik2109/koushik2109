@@ -3,13 +3,13 @@
 <h3 align="center">🚀 Software Engineer • Open Source Contributor • AI/ML Enthusiast • Backend Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Backend+Developer" alt="Typing introduction" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=koushik2109&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/koushik2109?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/koushik2109?affiliations=OWNER&style=social"/>
+<img src="https://komarev.com/ghpvc/?username=koushik2109&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/koushik2109?label=Followers&style=social" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/koushik2109?affiliations=OWNER&style=social" alt="GitHub stars" />
 </p>
 
 ---
@@ -41,37 +41,37 @@
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts" alt="Languages" />
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend technologies" />
 </p>
 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend technologies" />
 </p>
 
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 </p>
 
 ## AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and machine learning technologies" />
 </p>
 
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" alt="DevOps and tools" />
 </p>
 
 ---
@@ -98,12 +98,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushik2109&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik2109&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushik2109&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik2109&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=koushik2109&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=koushik2109&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -111,7 +111,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushik2109&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushik2109&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -130,7 +130,7 @@
 
 <p align="center">
   <a href="https://github.com/koushik2109" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=koushik2109&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=koushik2109&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -139,7 +139,7 @@
 # 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/koushik-2109/" target="_blank">
+  <a href="https://leetcode.com/u/koushik-2109" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow&labelColor=black" alt="LeetCode" />
   </a>
   <a href="https://codeforces.com/profile/koushik_2109" target="_blank">
