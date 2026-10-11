@@ -123,7 +123,6 @@
 | [MemoryVerse](https://github.com/koushik2109/MemoryVerse) | AI-powered multimedia memory vault | Ongoing |
 | [MindScope](https://github.com/koushik2109/MindScope) | AI-based speech mental-health analysis system | Completed |
 | [CRM Sentiment Analysis](https://github.com/koushik2109/CRM_Sentiment_Analysis) | CRM sentiment-analysis platform | Completed |
-| [LeetCode Problems Solved](https://github.com/koushik2109/leetcode_problems_solved) | Data-structures and algorithms solutions | Active |
 | Voice Controlled Lamp | Arduino and Bluetooth automation project | Completed |
 
 ---
