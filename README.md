@@ -127,78 +127,32 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=koushik2109&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub statistics"
-    width="480"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik2109&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most used programming languages"
-    width="380"
-  />
-</p>
+ <table align="center">
+  <tr>
+    <td align="center" width="50%" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=koushik2109&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+        alt="GitHub statistics"
+        width="400"
+      />
+    </td>
+    <td align="center" width="50%" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushik2109&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400"
+        alt="Most used programming languages"
+        width="400"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=koushik2109&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
-    width="520"
+    width="65%"
   />
 </p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=koushik2109&theme=tokyo-night&hide_border=true&area=true&radius=8&custom_title=Koushik%27s%20Contribution%20Activity"
-    alt="GitHub contribution activity graph"
-    width="900"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/koushik2109/koushik2109/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/koushik2109/koushik2109/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/koushik2109/koushik2109/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake animation"
-      width="900"
-    />
-  </picture>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=koushik2109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"
-    alt="GitHub trophies"
-    width="800"
-  />
-</p>
-
 ---
 
 ## 💻 Coding Profiles
